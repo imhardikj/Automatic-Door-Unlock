@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-Automatic-Door-Unlock
-=======
 # Automatic Door Unlock
-=============
 
 The project deals with Door Locks where we develop a set up using RFID reader and a NODEMCU. RFID reader reads signal 
 from tags and if it matches then the door will unlock else it will remain locked.
@@ -35,7 +31,7 @@ great step in this direction with requirement of minimal and cheap hardware avai
 
 <a href="https://ibb.co/g49YCKj"><img src="https://i.ibb.co/g49YCKj/IMG-20190412-004445397.jpg" alt="IMG-20190412-004445397" border="0"></a>  <a href="https://ibb.co/ydR7nKM"><img src="https://i.ibb.co/ydR7nKM/IMG-20190412-004521705.jpg" alt="IMG-20190412-004521705" border="0"></a> 
 
-### Video Link: Watch here.
+### Video Link: Watch it here.
 
 
 ## Conclusion and Future Work
@@ -45,6 +41,3 @@ power motor so that actual door can be rotated.
 
 All the scanning process can be automated with help of deep learning with notifications coming on user smartphone 
 instead of web browser.
-
-
->>>>>>> Stashed changes
